@@ -6,6 +6,22 @@ The workspace is developed and tested using **ROS2 Humble on Ubuntu 22.04**.
 
 ---
 
+# 🖼️ Hardware Team
+
+<p align="center">
+  <img src="assets/images/Bumpy_amr_hardware_team.jpeg" width="700" alt="Bumpy AMR Hardware Team">
+</p>
+
+---
+
+# 🎥 Demo
+
+<p align="center">
+  <img src="assets/demo.gif" width="700" alt="Bumpy AMR Demo">
+</p>
+
+---
+
 # 📌 Overview
 
 `bumpy_ws` is a modular ROS2 workspace built for a differential-drive autonomous mobile robot (bumpy7) and multi-robot experimentation.
@@ -701,21 +717,13 @@ The system is designed to demonstrate:
 - ✅ Multi-robot formation control
 - ✅ Obstacle-aware multi-robot development
 
-Add project screenshots here:
+### CAD Design
 
-```text
-docs/
-├── mapping.png
-├── navigation.png
-├── rviz.png
-└── formation_control.png
-```
+<img src="assets/images/Bumpy_amr_cad.jpeg" width="600" alt="Bumpy AMR CAD">
 
-Example:
+### Hardware
 
-```markdown
-![SLAM Mapping](docs/mapping.png)
-```
+<img src="assets/images/Bumpy_amr_hardware.jpeg" width="600" alt="Bumpy AMR Hardware">
 
 ---
 
